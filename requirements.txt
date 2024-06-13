@@ -1,0 +1,3 @@
+Flask
+python-dotenv
+binance-futures-connector
